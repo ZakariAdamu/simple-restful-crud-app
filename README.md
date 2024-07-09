@@ -1,0 +1,1 @@
+A Backend Project: REST API created with NodeJS, ExpressJS and MongoDB with all CRUD functionalities implemented. To run and test the project in your device, you can clone or fork this repo. To start the application type: npm run dev
